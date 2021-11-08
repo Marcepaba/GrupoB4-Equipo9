@@ -70,4 +70,7 @@ Crear un aplicativo web que permita tercerizar procesos de contabilidad a empres
 # SPRINT 2
 ## DIAGRAMA DE CLASES 
 ![image](https://user-images.githubusercontent.com/90942232/140674642-bf14cb6e-3acc-4a6b-8671-baa75a9cfcbb.png)
+## Evidencia Versión NodeJS y Angular
+![image](https://user-images.githubusercontent.com/90942232/140677006-9425be41-17db-4d59-943b-38e58c070a75.png)
+
 
