@@ -19,19 +19,12 @@ A continuación se listan los colaboradores e integrantes del grupo de desarroll
 | Scrum Master | Miguel Angel Vivas |
 | Scrum Team | Jairo Solano |
 | Scrum Team | Lina Marcela Perilla Barrios |
-| Scrum Team | Hanner Jose García López |
 | Scrum Team | Diego Alejandro Garcia Cardenas |
 | Scrum Team | Edgar Villamizar |
 
 ## Objetivo General
 
-Implementar un aplicativo web que ayude a los departamentos de contabilidad de empresas pequeñas y/o unipersonales en el procesamiento de transacciones contables diarias tales como consulta, creación, eliminación y actualización de registro de compras, ventas y gastos.
-
-###  Objetivos Específicos
-
-1. Crear un formulario que permita reducir el tiempo que toma a los usuarios crear, modificar o eliminar un registro contable. 
-2. Recopilar información de las transacciones contables que ingresan al sistema de la empresa que permita una mejor búsqueda y control de los datos, y generar registro contable automático.
-3. Implementar una interfaz gráfica que permita una interacción fácil, fluida y segura.
+AppContable en un aplicativo web que ayuda a los departamentos de contabilidad de empresas pequeñas y/o unipersonales en el procesamiento de transacciones contables diarias tales como consulta, creación, eliminación y actualización de registro de compras, ventas y gastos.
 
 ## Misión.
 
@@ -67,8 +60,11 @@ Crear un aplicativo web que permita tercerizar procesos de contabilidad a empres
 | HU-13 | Historia | Como usuario quiero que exista un boton para generar el informe mensual de los registros Para tener la informacion de manera automatizada |
 | HU-14 | Historia | Como usuario quiero que exista un boton para imrpimir el informe generado para tener el informe impreso cuando sea necesario |
 | TK-09 | Tarea | Implementar una vista de previsualizacion de Informe Contable |
+
 # SPRINT 2
+
 ## DIAGRAMA DE CLASES 
+
 ![image](https://user-images.githubusercontent.com/90942232/140674642-bf14cb6e-3acc-4a6b-8671-baa75a9cfcbb.png)
 ## Evidencia Versión NodeJS y Angular
 ![image](https://user-images.githubusercontent.com/90942232/140677006-9425be41-17db-4d59-943b-38e58c070a75.png)
@@ -76,3 +72,17 @@ Crear un aplicativo web que permita tercerizar procesos de contabilidad a empres
 ![image](https://user-images.githubusercontent.com/90942232/140678948-f455f9b7-266f-4efc-b510-acbfd7371a48.png)
 
 
+## EVIDENCIA VERSION NODEJS Y ANGULAR
+![image](https://user-images.githubusercontent.com/68785130/140678653-f0e7d997-4017-4d1a-89a0-8b03d2d9bb8a.png)
+
+
+
+![imagen](https://user-images.githubusercontent.com/93134902/140676716-fcac115d-d285-4961-ac56-4bc5cca76da7.png)
+
+*Autor: E.Villamizar*
+
+## INSTALACION ROBO-3T
+
+![imagen](https://user-images.githubusercontent.com/93134902/140679149-73ff7efe-7f9d-4bf2-8e7d-29a08fb55569.png)
+
+*Autor: E.Villamizar*
